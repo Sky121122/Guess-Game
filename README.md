@@ -25,7 +25,8 @@ Save high score permanently
 📱 Works seamlessly on Android (APK below)
 
 📷 Screenshots
-<img src="assets/screenshot/one.jpg" width="200" /> <img src="assets/screenshot/two.jpg" width="200" /> <img src="assets/screenshot/three.jpg" width="200" /> <img src="assets/screenshot/four.jpg" width="200" />
+<img src="assets/screenshot/one.jpg" width="200" /> <img src="assets/screenshot/two.jpg" width="200" /> 
+<img src="assets/screenshot/three.jpg" width="200" /> <img src="assets/screenshot/four.jpg" width="200" />
 
 🛠️ Tech Stack
 React Native
