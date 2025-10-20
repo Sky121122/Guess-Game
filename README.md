@@ -1,6 +1,37 @@
 # Welcome to your Expo app 👋
+# Download App From Here 👉👉👉 [Download APK](https://github.com/Sky121122/Guess-Game/releases/latest/download/Guess-Game.apk)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🌍 Guess Game – React Native (Expo)
+
+Welcome to Guess Game, a fun and interactive flag quiz app built using React Native + Expo.
+Test your knowledge of world flags, challenge your memory, and climb the leaderboard by scoring high! 🏆
+
+🎯 Goal
+
+Show a random flag
+Display 4 country options
+Get ✅ / ❌ feedback
+Track score and wrong attempts (❤️💔 system)
+Unlock new ranks based on score
+Save high score permanently
+
+🚀 Features
+🌍 100+ countries with flags
+🎨 Clean and minimal UI with soft colors
+❤️ Lives system (3 hearts – lose 1 per wrong answer)
+🧠 Randomized flag questions every round
+🏆 Auto-save High Score using AsyncStorage
+📱 Works seamlessly on Android (APK below)
+
+📷 Screenshots
+<img src="assets/screenshot/one.jpg" width="200" /> <img src="assets/screenshot/two.jpg" width="200" /> <img src="assets/screenshot/three.jpg" width="200" /> <img src="assets/screenshot/four.jpg" width="200" />
+
+🛠️ Tech Stack
+React Native
+Expo
+AsyncStorage
+
 
 ## Get started
 
