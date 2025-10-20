@@ -1,0 +1,71 @@
+import { StyleSheet } from "react-native";
+import { Colors } from "../constants/Colors";
+
+export const MainStyle = StyleSheet.create({
+  main:{
+    flex:1,
+    width:"100%",
+    backgroundColor:Colors.background,
+    alignItems:"center",
+},
+images:{
+    height:"100%",
+    width:"100%",
+    flex:1,
+    position:"absolute",
+    paddingHorizontal:5,
+},
+score:{
+    height:"8%",
+    width:"100%",
+    backgroundColor:Colors.accent,
+    borderRadius:8,
+    justifyContent:"space-around",
+    alignItems:"center",
+    display:"flex",
+    flexDirection:"row"
+},
+container:{
+    width:"75%",
+    height:"25%",
+    alignSelf:"center",
+    // marginTop:30,
+    top:"5%",
+    borderRadius:8,
+    borderWidth:5,
+    alignItems:"center",
+    justifyContent:"center",
+    borderColor:Colors.primary,
+    backgroundColor:Colors.background,
+},
+buttons:{
+  width:"100%",
+  height:"auto",
+  gap:"10",
+  alignSelf:"center",
+  top:"15%",
+  alignItems:"center",
+  justifyContent:"space-between"
+},
+btn:{
+    height:50,
+    width:"80%",
+    borderRadius:8,
+    borderWidth:5,
+    borderColor:Colors.primary,
+    backgroundColor:Colors.accent,
+    justifyContent:"center",
+    alignItems:"center"
+},
+progress:{
+    height:"50",
+    width:"100%",
+    alignSelf:"center",
+    backgroundColor:Colors.background,
+    borderRadius:8,
+    top:"25%",
+    alignItems:"center",
+    justifyContent:"center"
+}
+
+})
